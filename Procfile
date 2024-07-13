@@ -1,0 +1,1 @@
+web: gunicorn YogaAPI.wsgi
